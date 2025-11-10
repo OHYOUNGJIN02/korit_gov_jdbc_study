@@ -1,4 +1,4 @@
-package com_korit.config;
+package Study2.config;
 
 public class DBconfig {
     public static final String URL = "jdbc:mysql://localhost:3306/db_study";
